@@ -175,3 +175,11 @@ width: 105%;
 .img-reebook {
 width: 105%;
 }
+.contacts-inner{
+  text-align: center;
+  
+}
+.contacts-list{
+  display: flex;
+
+}
